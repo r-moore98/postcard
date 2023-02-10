@@ -39,4 +39,5 @@ input {
 button {
 	background-color: #b4b4b477;
 	padding: 10px;
+	border: none;
 }
